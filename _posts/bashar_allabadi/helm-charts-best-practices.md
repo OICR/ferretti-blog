@@ -11,7 +11,7 @@ tags:
     - Helm Charts
     - Best Practice
 teaser:
-    info: Team's experience with helm, and the lessons we learnd 
+    info: Team''s experience with helm, and the lessons we learnd 
     image: bashar_allabadi/helm.svg
 header:
     version: small
